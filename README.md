@@ -2,7 +2,7 @@
 
 (Meetup: Refactoring Legacy Code Via Mob Programming)
 
-work in prograss :)
+work in progress
 
 # Gilded Rose Refactoring Kata
 
